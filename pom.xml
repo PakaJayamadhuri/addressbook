@@ -492,4 +492,12 @@
         </profile>
     </profiles>
 
+    <distributionManagement>
+    <repository>
+        <id>central</id>
+        <name>a0gkldglzzp9v-artifactory-primary-0-releases</name>
+        <url>https://jayamadhuri.jfrog.io/artifactory/demo-libs-release-local</url>
+    </repository>
+</distributionManagement>
+
 </project>

@@ -4,12 +4,12 @@
   <servers>
     <server>
       <username>pakajayamadhuri@gmail.com</username>
-      <password>cmVmdGtuOjAxOjE3NzcyMTAwNjk6RkJOcUhrQklCaU80YVZkT291bW5RRUh1cWZY</password>
+      <password>cmVmdGtuOjAxOjE3NzczNTI3NDc6ejJBRkk2ZVRyZDdLTk9UM3hhRWZzazF2N2Vh</password>
       <id>central</id>
     </server>
     <server>
       <username>pakajayamadhuri@gmail.com</username>
-      <password>cmVmdGtuOjAxOjE3NzcyMTAwNjk6RkJOcUhrQklCaU80YVZkT291bW5RRUh1cWZY</password>
+      <password>cmVmdGtuOjAxOjE3NzczNTI3NDc6ejJBRkk2ZVRyZDdLTk9UM3hhRWZzazF2N2Vh</password>
       <id>snapshots</id>
     </server>
   </servers>
@@ -21,14 +21,14 @@
             <enabled>false</enabled>
           </snapshots>
           <id>central</id>
-          <name>demo-libs-release</name>
-          <url>https://jayamadhuri.jfrog.io/artifactory/demo-libs-release</url>
+          <name>demo-jaya-libs-release</name>
+          <url>https://jayamadhuri.jfrog.io/artifactory/demo-jaya-libs-release</url>
         </repository>
         <repository>
           <snapshots />
           <id>snapshots</id>
-          <name>demo-libs-snapshot</name>
-          <url>https://jayamadhuri.jfrog.io/artifactory/demo-libs-snapshot</url>
+          <name>demo-jaya-libs-snapshot</name>
+          <url>https://jayamadhuri.jfrog.io/artifactory/demo-jaya-libs-snapshot</url>
         </repository>
       </repositories>
       <pluginRepositories>
@@ -37,14 +37,14 @@
             <enabled>false</enabled>
           </snapshots>
           <id>central</id>
-          <name>demo-libs-release</name>
-          <url>https://jayamadhuri.jfrog.io/artifactory/demo-libs-release</url>
+          <name>demo-jaya-libs-release</name>
+          <url>https://jayamadhuri.jfrog.io/artifactory/demo-jaya-libs-release</url>
         </pluginRepository>
         <pluginRepository>
           <snapshots />
           <id>snapshots</id>
-          <name>demo-libs-snapshot</name>
-          <url>https://jayamadhuri.jfrog.io/artifactory/demo-libs-snapshot</url>
+          <name>demo-jaya-libs-snapshot</name>
+          <url>https://jayamadhuri.jfrog.io/artifactory/demo-jaya-libs-snapshot</url>
         </pluginRepository>
       </pluginRepositories>
       <id>artifactory</id>
